@@ -52,7 +52,6 @@ Features:
 
 - Input feature
 - View predicted demand
-- Interactive user interface
 
 ## Tools
 
